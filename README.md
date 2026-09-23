@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Arpita Redekar 👋
 
-<!--
-**redekararpita-hub/redekararpita-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Welcome to my Github profile! I'm a Third Year  Artificial Intelligence And Machine Learning student passionate about learning new technologies and building practical solutions. I enjoy working on Machine Learning , Python ,Artificial Intelligence , Data Analytics and new tools and technologies.
 
-Here are some ideas to get you started:
+🧰 Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Languages: Python , Java , HTML , CSS
+📚 Libraries: pandas, NumPy, scikit-learn, Matplotlib, seaborn, TensorFlow, PyTorch
+🧠 AI/ML: Classification, Regression, Machine Learning and Data Analysis
+🛠️ Tools: Jupyter Notebook, VS Code, Git, GitHub, Excel, Tableau, Power BI
+☁️ Cloud: Google Colab, Kaggle Kernels
+🚀 Current Learning Goals 📊 Improving data analytics and Python goals , learning and implementing Machine Learning concepts , building practical AI projects . 
+
+📫 Connect With Me
+
+✉️ Email: redekararpita@gmail.com
+
+Thanks for visiting my profile! ⭐️
